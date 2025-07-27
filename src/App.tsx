@@ -29,7 +29,7 @@ function App() {
               Change
             </p>
           </div>
-          <button className="p-5 bg-blue-700 text-white font-extrabold w-full rounded-2xl shadow shadow-blue-400  hover:scale-[1.02] active-state hover:bg-accent">
+          <button className="p-5 bg-blue-700 text-white font-extrabold w-full rounded-2xl shadow-xl/20 shadow-blue-400  hover:scale-[1.02] active-state hover:bg-accent">
             Proceed to Payment
           </button>
           <button className="w-full font-extrabold text-gray-600 hover:text-black  active-state">
